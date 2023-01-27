@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yxaxn
+- 👋 Hi, I’m @einfachyannik
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning python
 - 📫 How to reach me yxaxn55@gmail.com
